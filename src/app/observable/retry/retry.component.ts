@@ -20,7 +20,7 @@ export class RetryComponent {
     this.stateAry = [];
     let retryCount = 0;
     this.fetching = true;
-    this.status = 'Fetching data...';
+    this.status = 'Fetching data....';
     // this.http.get('https://angular.io/generated/announcements.json').subscribe(res => {
     // this.http.get('https://api.github.com/users/hadley/orgs').subscribe(res => {
     this.http.get('https://cdn-api.co-vin.in/api/v2/admin/location/states')
