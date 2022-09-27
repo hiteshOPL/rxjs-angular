@@ -1,0 +1,71 @@
+export const filterData = [{
+    "id": 1,
+    "first_name": "Minna",
+    "last_name": "Kildea",
+    "email": "mkildea0@acquirethisname.com",
+    "gender": "Female",
+    "ip_address": "203.2.7.114"
+}, {
+    "id": 2,
+    "first_name": "Christabel",
+    "last_name": "Morriarty",
+    "email": "cmorriarty1@ft.com",
+    "gender": "Female",
+    "ip_address": "222.209.8.224"
+}, {
+    "id": 3,
+    "first_name": "Corty",
+    "last_name": "Clemenzo",
+    "email": "cclemenzo2@jalbum.net",
+    "gender": "Male",
+    "ip_address": "88.169.182.127"
+}, {
+    "id": 4,
+    "first_name": "Austin",
+    "last_name": "Sturridge",
+    "email": "asturridge3@seattletimes.com",
+    "gender": "Male",
+    "ip_address": "92.251.134.151"
+}, {
+    "id": 5,
+    "first_name": "Cornelle",
+    "last_name": "Pinching",
+    "email": "cpinching4@telegraph.co.uk",
+    "gender": "Female",
+    "ip_address": "241.217.145.42"
+}, {
+    "id": 6,
+    "first_name": "Paulie",
+    "last_name": "Kingzett",
+    "email": "pkingzett5@redcross.org",
+    "gender": "Male",
+    "ip_address": "64.138.98.66"
+}, {
+    "id": 7,
+    "first_name": "Cecile",
+    "last_name": "Jouanny",
+    "email": "cjouanny6@skype.com",
+    "gender": "Female",
+    "ip_address": "64.207.184.122"
+}, {
+    "id": 8,
+    "first_name": "Chadwick",
+    "last_name": "Rainbird",
+    "email": "crainbird7@wordpress.org",
+    "gender": "Male",
+    "ip_address": "150.82.67.91"
+}, {
+    "id": 9,
+    "first_name": "Kerwin",
+    "last_name": "Maundrell",
+    "email": "kmaundrell8@sbwire.com",
+    "gender": "Male",
+    "ip_address": "148.179.48.180"
+}, {
+    "id": 10,
+    "first_name": "Valina",
+    "last_name": "Eymor",
+    "email": "veymor9@ifeng.com",
+    "gender": "Female",
+    "ip_address": "0.99.79.1"
+}];

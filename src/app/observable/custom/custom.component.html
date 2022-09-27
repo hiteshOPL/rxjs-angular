@@ -1,0 +1,34 @@
+<div class="my-3">
+    <h2>Of & From</h2>
+    <br>
+
+    <div class="row">
+        <div class="col-md-6">
+            <strong>Ex - 01 (Manual)</strong>
+            <hr>
+            <ul [ngClass]="techStatus === 'completed' ? 'completed' : (techStatus === 'error' ? 'error' : '')"
+                class="techList" id="elContainer"></ul>
+        </div>
+        <div class="col-md-6">
+            <strong>Ex - 01 (Custom Interval)</strong>
+            <hr>
+            <ul [ngClass]="techStatus2 === 'completed' ? 'completed' : (techStatus2 === 'error' ? 'error' : '')"
+                class="techList" id="elContainer2"></ul>
+        </div>
+    </div>
+
+    <br>
+
+    <div class="row">
+        <div class="col-md-12">
+            <strong>Ex - 03 (Random Names)</strong>
+            <br><br>
+            <p class="bg-light py-2 px-3 border rounded">
+                <strong>Random Names : </strong>
+                'Roy', 'Will', 'Rosanna', 'Eduardo', 'Dav', 'Florry', 'Allayne'
+            </p>
+            <hr>
+            <p>Current Name: <strong class="text-success">{{currentName}}</strong></p>
+            <span class="badge text-bg-success">Success</span>
+        </div>
+    </div>
