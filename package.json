@@ -8,7 +8,7 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "deploy": "ng deploy --base-href=/rxjs-angular/ --repo=https://github.com/hiteshOPL/rxjs-angular.git --name=hiteshOPL --email=hitesh.suthar.crt@onlinepsbloans.com --no-silent"
+    "deploy": "ng deploy --base-href=/rxjs-angular/ --repo=git@github.com:hiteshOPL/rxjs-angular.git --name=hiteshOPL --email=hitesh.suthar.crt@onlinepsbloans.com --no-silent"
   },
   "private": true,
   "dependencies": {
