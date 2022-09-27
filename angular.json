@@ -58,7 +58,6 @@
               "extractLicenses": false,
               "sourceMap": false,
               "namedChunks": false,
-              "baseHref": "/rxjs-angular/",
               "watch": false
             },
             "development": {
