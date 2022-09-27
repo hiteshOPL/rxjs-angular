@@ -9,6 +9,6 @@ export class AsyncSubjectComponent implements OnInit {
   constructor() {}
 
   ngOnInit(): void {
-    console.log('Hello Async');
+    console.log('Hello Async123');
   }
 }
